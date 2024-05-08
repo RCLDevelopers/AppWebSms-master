@@ -102,7 +102,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Nriagu Chidubem](https://github.com/dubems)
+- [Zangtics Dev Team](https://github.com/RCLDevelopers)
 - [All Contributors](../../contributors)
 
 ## License
